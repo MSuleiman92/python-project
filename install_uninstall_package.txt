@@ -1,0 +1,13 @@
+ To uninstall package  use 
+  pip3 uninstall python-docx
+
+  pip3 uninstall pyttsx3 
+
+
+  # To uninstall packages. 
+
+
+NB: To install all the required packages we can the use the 
+requirement.txt to install the uninstalled packages. 
+
+pip3 install -r requirement.txt 
